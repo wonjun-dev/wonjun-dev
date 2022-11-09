@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wonjun Chung
-- 👀 I’m interested in AI and machine learning that can make business value.
+- 👀 I’m interested in machine learning that can make business value.
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 wonjun.dev@gmail.com
