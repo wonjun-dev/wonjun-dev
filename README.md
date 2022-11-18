@@ -7,10 +7,19 @@
 <a href="mailto:wonjun-dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
+### Machine Learning Engineer
 
+### Interest
+- Prototyping SOTA ML/DL models
+- Deploying ML/DL models as a service (a.k.a MLOps)
+- Large-Scale AI (Especially, generative models)
+- Entrepreneurship
+
+
+<div align=center>
 [![Wonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjun-dev&count_private=true&theme=dracula)](https://github.com/wonjun-dev/github-readme-stats)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonjunjg)](https://solved.ac/wonjunjg)
-
+</div>
 
 <!---
 wonjun-dev/wonjun-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
