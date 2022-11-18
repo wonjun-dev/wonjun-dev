@@ -10,7 +10,7 @@
 ### Machine Learning Engineer
 
 ### Interest
-- Prototyping SOTA ML/DL models
+- Prototyping ML/DL models
 - Deploying ML/DL models as a service (a.k.a MLOps)
 - Large-Scale AI (Especially, generative models)
 - Entrepreneurship
