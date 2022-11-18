@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Wonjun Chung
 - 👀 I’m interested in machine learning that can make better world.
-
-<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 wonjun.dev@gmail.com
 
 
