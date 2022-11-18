@@ -12,7 +12,7 @@
 ### Interest
 - Prototyping ML/DL models
 - Deploying ML/DL models as a service (a.k.a MLOps)
-- Large-Scale AI (Especially, generative models)
+- Large-Scale AI
 - Entrepreneurship
 
 ### Work Experience
