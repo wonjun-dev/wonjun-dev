@@ -16,7 +16,7 @@
 - Entrepreneurship
 
 ### Work Experience
-- TamxAI - Researcher (2020.09 ~ )
+- TmaxAI - Researcher (2020.09 ~ )
 - KAIST - Master of Computer Science, Machine Learning and Intelligence Lab (2018.07 ~ 2020.08)
 
 
