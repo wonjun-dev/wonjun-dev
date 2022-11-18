@@ -17,7 +17,7 @@
 
 ### Work Experience
 - TamxAI - Researcher (2020.09 ~ )
-- KAIST AI - Master of Computer Science (2018.07~2020.08)
+- KAIST - Master of Computer Science, Machine Learning and Intelligence Lab (2018.07 ~ 2020.08)
 
 
 <div align=center>
