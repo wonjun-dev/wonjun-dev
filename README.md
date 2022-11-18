@@ -7,13 +7,17 @@
 <a href="mailto:wonjun-dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
-### Machine Learning Engineer
+### Machine Learning Research Engineer
 
 ### Interest
 - Prototyping ML/DL models
 - Deploying ML/DL models as a service (a.k.a MLOps)
 - Large-Scale AI (Especially, generative models)
 - Entrepreneurship
+
+### Work Experience
+- TamxAI - Researcher (2020.09 ~ )
+- KAIST AI - Master of Computer Science (2018.07~2020.08)
 
 
 <div align=center>
