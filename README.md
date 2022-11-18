@@ -5,7 +5,7 @@
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjun-dev&count_bg=%23000000&title_bg=%23000000&icon=pytorch.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 [![Wonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjun-dev&count_private=true&theme=dracula)](https://github.com/wonjun-dev/github-readme-stats)
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=wonjunjg)](https://solved.ac/wonjunjg)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonjunjg)](https://solved.ac/wonjunjg)
 
 
 <!---
