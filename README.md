@@ -5,7 +5,7 @@
 - 📫 wonjun.dev@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+[![Wonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjun-dev)](https://github.com/wonjun-dev/github-readme-stats)
 
 
 <!---
