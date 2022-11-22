@@ -11,7 +11,7 @@
 
 ### Interest
 - Prototyping ML/DL models
-- Deploying ML/DL models as a service (a.k.a MLOps)
+- Deploying ML/DL models as a service (a.k.a MLOps, Inference Optimization)
 - Large-Scale AI
 - Entrepreneurship
 
