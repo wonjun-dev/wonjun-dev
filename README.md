@@ -16,7 +16,7 @@
 - Entrepreneurship
 
 ### Work Experience
-- TmaxAI - Researcher (2020.09 ~ )
+- TmaxAI - Researcher, Alternative Military Service (2020.09 ~ )
 - KAIST - Master of Computer Science, Machine Learning and Intelligence Lab (2018.07 ~ 2020.08)
 
 
