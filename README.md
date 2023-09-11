@@ -12,8 +12,9 @@
 
 ### Machine Learning Research Engineer
 
+<!--
 ### Interest
-
+-->
 
 ### Work Experience
 - TmaxAI - Machine Learning Research Engineer, Alternative Military Service (2020.09 ~ )
