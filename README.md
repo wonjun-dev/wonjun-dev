@@ -10,20 +10,19 @@
 ### Machine Learning Research Engineer
 
 ### Interest
-- Prototyping ML/DL models
-- Deploying ML/DL models as a service (a.k.a MLOps, Inference Optimization)
-- Large-Scale AI
-- Entrepreneurship
+
 
 ### Work Experience
-- TmaxAI - Researcher, Alternative Military Service (2020.09 ~ )
+- TmaxAI - Machine Learning Research Engineer, Alternative Military Service (2020.09 ~ )
 - KAIST - Master of Computer Science, Machine Learning and Intelligence Lab (2018.07 ~ 2020.08)
 
 
 <div align=center>
  
+ <!--
 [![Wonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjun-dev&count_private=true&theme=dracula)](https://github.com/wonjun-dev/github-readme-stats)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonjunjg)](https://solved.ac/wonjunjg)
+..>
  
 </div>
 
