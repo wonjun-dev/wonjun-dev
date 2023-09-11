@@ -11,7 +11,6 @@
 <a href="https://www.kaggle.com/wonjunjg" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
 <a href="mailto:wonjun-dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
--->
 
 ### Machine Learning Research Engineer
 
